@@ -4,7 +4,7 @@ Examen 01 - Première partie : CSS
 
 # Objectif
 
-Rédiger le CSS nécessaire afin d'atteindre une mise en forme identique à celle présentée dans le navigateur sous le libellé "- OBJECTIF -" de chaque document HTML.
+Rédiger le CSS nécessaire afin d'atteindre une mise en forme identique à celle présentée dans le navigateur sous le libellé "- OBJECTIF -" de chaque document HTML
 
 # Conditions particulières
 
@@ -16,6 +16,13 @@ Rédiger le CSS nécessaire afin d'atteindre une mise en forme identique à cell
 # Pondération
 
 Chaque fichier HTML représente 5% de la note totale.
+
+- flexbox-1.html (5%)
+- flexbox-2.html (5%)
+- flexbox-3.html (5%)
+- flexbox-4.html (5%)
+- flexbox-5.html (5%)
+- responsive.html (5%)
 
 # Remise
 
